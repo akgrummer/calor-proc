@@ -15,6 +15,9 @@ ssh://git@gitlab.cern.ch:7999/cms-rc/cmsdpgplots/hgcalplots.git
 econ and roc plots here:
 hgcalplots/content/HGCAL-DP-2024_002/
 
+displayed here:
+https://cmsdpgplots.web.cern.ch/#/hgcal
+
 ## Latex style files
 
 macro-latex-web-conf.zip
